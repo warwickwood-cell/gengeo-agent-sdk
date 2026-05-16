@@ -126,6 +126,21 @@ https://api.gengeo.co/.well-known/gengeo-schema.json
 
 ---
 
+## Future Middleware Support
+
+GenGEO is designed to support middleware-based verification flows for:
+
+- AI shopping agents
+- agent orchestration systems
+- autonomous checkout flows
+- merchant routing pipelines
+
+Current SDK release focuses on lightweight direct verification.
+
+
+---
+
+
 ## Documentation
 
 ```text
