@@ -1,0 +1,16 @@
+
+{
+  "name": "@gengeo/agent-sdk",
+  "version": "0.1.0",
+  "description": "Merchant verification SDK for AI shopping agents using GenGEO.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "ai-agents",
+    "agentic-commerce",
+    "shopify",
+    "merchant-verification",
+    "gengeo"
+  ],
+  "license": "MIT"
+}
